@@ -14,4 +14,6 @@
 #      profile                  = "default"
 #    }
 
+
+# I used Environment Variables to provide my credentials
 provider "aws" {}
